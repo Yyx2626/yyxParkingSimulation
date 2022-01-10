@@ -1,7 +1,7 @@
 # yyxParkingSimulation
 Parking Simulation
 
-Theoretical simulation for learning of parking (such as parallel or perpendicular parking)
+Theoretical simulation for learning parking (such as parallel or perpendicular parking)
 
 Implemented by R with grid graphics system
 
