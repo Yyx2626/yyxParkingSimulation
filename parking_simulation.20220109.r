@@ -1,5 +1,11 @@
 
-#library(tidyverse)
+#### Theoretical simulation for learning of parking (such as parallel or perpendicular parking)
+#### Usage: Just load and run parking_simulation.20220109.r in R by dragging the R script file into R console, or by executing source("parking_simulation.20220109.r") in R console (in Windows).
+
+### Author: Adam Yongxin Ye
+### Version: 0.1.0 (2022-01-09)
+
+
 library(grid)
 
 
