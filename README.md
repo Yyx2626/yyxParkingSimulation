@@ -7,7 +7,7 @@ Implemented by R with grid graphics system
 
 ### Prerequisite
 
-R console in Windows and R package {grid}
+R console and R package {grid}
 
 ### Usage
 
