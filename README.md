@@ -21,7 +21,7 @@ Or you may also manually execute ```restart_simulation()``` with different param
 
 ### Demo screenshots
 
-parallel parking
+- Parallel parking (```simulation_option = 1```):
 
 <p fload="left">
 <img src="img/screenshot_1.png" alt="parallel parking" width="33%" />
@@ -32,7 +32,7 @@ parallel parking
 <img src="img/screenshot_1_6.png" alt="parallel parking_6" width="33%" />
 </p>
 
-perpendicular parking
+- Perpendicular parking (```simulation_option = 2```):
 
 <p fload="left">
 <img src="img/screenshot_2.png" alt="perpendicular parking" width="33%" />
